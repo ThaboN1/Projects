@@ -1,4 +1,3 @@
-# Projects
 
 <html>
     <head>
